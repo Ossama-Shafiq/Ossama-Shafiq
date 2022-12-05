@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ossama-Shafiq
 - 👀 I’m interested in computers, maths, biology, physics and chemistry
-- 🌱 I’m currently learning quantum mechanics
+- 🌱 I’m currently learning quantum mechanics, Bayesian statistics and Deep Learning methodologies
 - 💞️ I’m looking to collaborate on scientific research within the domain of life sciences and computer science
 - 📫 How to reach me ...
 
